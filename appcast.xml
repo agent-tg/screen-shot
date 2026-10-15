@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Screen Shot</title>
+        <item>
+            <title>4.2</title>
+            <pubDate>Wed, 14 Oct 2026 22:33:49 -0500</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/agent-tg/screen-shot/releases/download/v4.2-7/ScreenShot-4.2-7.zip" length="1917160" type="application/octet-stream" sparkle:edSignature="7DpmoJ7r5GJktQFyeUBHCU5V3LDXBi7TfmR8OxddxiLIP/hah5TF1GupF45a1Q6m465JvjKEYNGgc0P2IwPODg=="/>
+        </item>
+    </channel>
+</rss>
