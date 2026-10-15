@@ -3,12 +3,12 @@
     <channel>
         <title>Screen Shot</title>
         <item>
-            <title>4.2</title>
-            <pubDate>Wed, 14 Oct 2026 22:33:49 -0500</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>4.2</sparkle:shortVersionString>
+            <title>4.3</title>
+            <pubDate>Wed, 14 Oct 2026 23:25:28 -0500</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>4.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/agent-tg/screen-shot/releases/download/v4.2-7/ScreenShot-4.2-7.zip" length="1917160" type="application/octet-stream" sparkle:edSignature="7DpmoJ7r5GJktQFyeUBHCU5V3LDXBi7TfmR8OxddxiLIP/hah5TF1GupF45a1Q6m465JvjKEYNGgc0P2IwPODg=="/>
+            <enclosure url="https://github.com/agent-tg/screen-shot/releases/download/v4.3-8/ScreenShot-4.3-8.zip" length="1919542" type="application/octet-stream" sparkle:edSignature="zad9hsERuMD6G+OqWE53uv8pj/UAubtiiVC8bAnDfY5f6hStRxgDD2ybpAYG/Vh+ucxheF+ZX4OjplEGrnGBAg=="/>
         </item>
     </channel>
 </rss>
